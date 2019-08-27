@@ -1,5 +1,5 @@
 {
-    "name": "@fernandosqa/cucumber",
+    "name": "@joicequeiroz/cucumber",
     "description": "Cucumber based on Ruby (Bundler, Cucumber, Capybara, Siteprism, RSpec)",
     "version": "0.0.1",
     "main": "index.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/fernandosqa/cucumber.git"
+        "url": "https://github.com/joicequeiroz/cucumber.git"
     },
     "keywords": [
         "cucumber",
@@ -18,10 +18,10 @@
         "siteprism",
         "rspec"
     ],
-    "author": "Fernando Papini",
+    "author": "Joice Queiroz",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/fernandosqa/cucumber/issues"
+        "url": "https://github.com/joicequeiroz/cucumber/issues"
     },
-    "homepage": "https://github.com/fernandosqa/cucumber#readme"
+    "homepage": "https://github.com/joicequeiroz/cucumber#readme"
 }
